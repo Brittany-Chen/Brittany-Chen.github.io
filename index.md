@@ -26,7 +26,7 @@ My research interests: Adversarial Attacks; Image Steganography;
 # Conference Paper
 <hr/>
 
-1.  **Zihan Chen**, Ziyue Wang, Jun-Jie Huang, Wentao Zhao, Xiao Liu, and Dejian Guan, "Imperceptible Adversarial Attack via Invertible Neural Networks," Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023. [[Paper Coming soon!]](#) [[code]](https://github.com/jjhuangcs/AdvINN)
+1.  **Zihan Chen**, Ziyue Wang, Jun-Jie Huang, Wentao Zhao, Xiao Liu, and Dejian Guan, "Imperceptible Adversarial Attack via Invertible Neural Networks," Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023. [[Paper]]([#](https://arxiv.org/abs/2211.15030)) [[code]](https://github.com/jjhuangcs/AdvINN)
 
 <!-- This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 

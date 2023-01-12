@@ -18,5 +18,5 @@ My research interests: Adversarial Attacks; Image Steganography;
 # Conference Paper
 <hr/>
 
-1.  **Zihan Chen**, Ziyue Wang, Jun-Jie Huang, Wentao Zhao, Xiao Liu, and Dejian Guan, "Imperceptible Adversarial Attack via Invertible Neural Networks," Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023. [[Paper]](https://arxiv.org/pdf/2211.15030.pdf) [[Code]](https://github.com/jjhuangcs/AdvINN) [[Video]](https://www.youtube.com/watch?v=N2my2n5ylcM) [[Poster]](./assets/poster/AdvINN_poster.pdf) [[Slides]](./assets/slides/AdvINN_slides.pdf)
+1.  **Zihan Chen**, Ziyue Wang, Jun-Jie Huang, Wentao Zhao, Xiao Liu, and Dejian Guan, "**Imperceptible Adversarial Attack via Invertible Neural Networks**," Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2023. [[Paper]](https://arxiv.org/pdf/2211.15030.pdf) [[Code]](https://github.com/jjhuangcs/AdvINN) [[Video]](https://www.youtube.com/watch?v=N2my2n5ylcM) [[Poster]](./assets/poster/AdvINN_poster.pdf) [[Slides]](./assets/slides/AdvINN_slides.pdf)
 

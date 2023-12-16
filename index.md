@@ -5,7 +5,7 @@ layout: default
 # About me
 <hr/>
 
-From 2021 until now, I study at the College of Computer Science, National University of Defense Technology (NUDT), under the supervision of [Professor Wentao Zhao](https://dblp.org/pid/61/6344.html) and [Jun-jie Huang](https://jjhuangcs.github.io/).
+From 2021 until now, I study at the College of Computer Science, National University of Defense Technology (NUDT), under the supervision of [Professor Wentao Zhao](https://dblp.org/pid/61/6344.html) and [Jun-Jie Huang](https://jjhuangcs.github.io/).
 
 During 2017 - 2021, I was an undergraduate student at the School of Information Science and Engineering, Lanzhou University.
 

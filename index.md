@@ -13,7 +13,8 @@ My research interests: Adversarial Attacks; Image Steganography;
 
 # What's New
 <hr/>
-- One paper on Imperceptible Adversarial Attack has been accepted by AAAI 2023.
+- 2023.12 One paper on Imperceptible Adversarial Attack has been accepted by **ICASSP 2024**.
+- 2023.06 One paper on Imperceptible Adversarial Attack has been accepted by **AAAI 2023**.
 
 # Conference Paper
 <hr/>
